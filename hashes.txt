@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Estrellas en tu piel
+
+This log tracks the cryptographic history and versioning for the song **Estrellas en tu piel** (estrellas-en-tu-piel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T07:15:45.358423 | `v1` | `246fefb85563ff9a9a00810f5ca8dd763acd6f515c29c1d6b38d286368ff1275` | `046fb8aee54a53285a829586fbdbb741bc42d51ddba28b9a1b60d53341c37c57` | `2026-06-22_estrellas-en-tu-piel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

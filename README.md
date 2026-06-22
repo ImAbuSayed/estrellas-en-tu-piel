@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/estrellas-en-tu-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Estrellas en tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/estrellas-en-tu-piel/) |
+| **Get License** | [Official Music Licensing for Estrellas en tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/estrellas-en-tu-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `246fefb85563ff9a9a00810f5ca8dd763acd6f515c29c1d6b38d286368ff1275` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
