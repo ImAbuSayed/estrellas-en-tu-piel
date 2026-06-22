@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/estrellas-en-tu-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Estrellas en tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/estrellas-en-tu-piel/) |
+| **Get License** | [Get License For Estrellas en tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/estrellas-en-tu-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero perderme esta noche en la curva de tu espalda
+> Tus ojos brillan más que las luces de la sala
+> Sentir cómo tu cuerpo con el mío se resbala
+> Bajo la luna llena que a los dos nos acorrala
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
